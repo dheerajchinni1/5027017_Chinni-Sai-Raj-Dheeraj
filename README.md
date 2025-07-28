@@ -7,8 +7,8 @@
 
 ### Module 1: SDLC, Agile, CI & CD 
 ``` Course Completed on Great Learning ```
-< img src="SDLC/Screenshot 2025-07-28 123419.png" alt =  "image">
+< img src="https://github.com/dheerajchinni1/5027017_Chinni-Sai-Raj-Dheeraj/blob/main/SDLC/Screenshot%202025-07-28%20123419.png" alt =  "image">
 
 ### Module 2: Git, Github
 ``` Course Completed on Simplilearn ```
-< img src ="Git/8680994_54985421753379805096-page-00001.jpg" alt = "image">
+< img src ="https://github.com/dheerajchinni1/5027017_Chinni-Sai-Raj-Dheeraj/blob/main/Git/8680994_54985421753379805096-page-00001.jpg" alt = "image">
