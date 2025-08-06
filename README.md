@@ -2,7 +2,6 @@
 # Module 1 & 2 Online Learning Completion
 
 ## Name: Chinni Sai Raj Dheeraj
-## Email: sairajdheeraj1@gmail.com
 ## Superset ID: 5027017
 
 ### Module 1: SDLC, Agile, CI & CD 
